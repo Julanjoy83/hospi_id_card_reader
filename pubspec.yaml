@@ -33,6 +33,9 @@ dependencies:
   google_ml_kit:
   google_mlkit_text_recognition:   # ✅ Pour scanner le texte sur la carte d'identité
   flutter_nfc_kit:
+  web_socket_channel:
+  qr_flutter:
+  mobile_scanner:
   nfc_manager: ^3.3.0
   image_picker: ^1.0.7
   permission_handler: ^11.0.0
